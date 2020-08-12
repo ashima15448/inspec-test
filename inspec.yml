@@ -6,4 +6,4 @@ depends:
   - name: inspec-aws
     url: https://github.com/inspec/inspec-aws/archive/inspec-4.6.9.tar.gz
 supports:
-  - platform: aws
+  - platform: linux
